@@ -146,3 +146,13 @@ results/
 
 # scrapy.cfg is usually kept, but if you have local overrides:
 # scrapy.local.cfg
+
+# auto-added ignore rules
+*.iml
+*.ipr
+*.iws
+.vs/
+*.suo
+*.user
+desktop.ini
+*.tmp
